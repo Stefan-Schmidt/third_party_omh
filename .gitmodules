@@ -1,0 +1,12 @@
+[submodule "omh-core"]
+	path = omh-core
+	url = https://github.com/openmobilehub/omh-core
+[submodule "omh-auth"]
+	path = omh-auth
+	url = https://github.com/openmobilehub/omh-auth
+[submodule "omh-storage"]
+	path = omh-storage
+	url = https://github.com/openmobilehub/omh-storage
+[submodule "omh-maps"]
+	path = omh-maps
+	url = https://github.com/openmobilehub/omh-maps
